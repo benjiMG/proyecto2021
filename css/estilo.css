@@ -67,29 +67,44 @@
 	background-color: #000099;
 	left:35%;
 	width: 25%;
-	top: 230%
+	top: 220%
 }
 .noticias1{
 	position: absolute;
 	text-align: center;
-	top:240%;
+	top:230%;
 	font-size:20px;
 	left:5%;
 	width: 90%;
 }
 #noticias1{
 	position: absolute;
-	top:265%;
+	top:255%;
+	font-size:20px;
+	left:55%;
+	width: 40%;
+}
+.noticias2{
+	position: absolute;
+	text-align: center;
+	top:310%;
+	font-size:20px;
+	left:5%;
+	width: 90%;
+}
+#noticias2{
+	position: absolute;
+	top:330%;
 	font-size:20px;
 	left:55%;
 	width: 40%;
 }
 #pie{
 	position: absolute;
-	top: 310%;
+	top: 390%;
 	text-align: center;
 	background-color: #000099;
-	color: white;
+	color: : white;
 	width: 100%;
 	height: 5%;
 }
